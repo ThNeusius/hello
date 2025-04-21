@@ -1,0 +1,16 @@
+# Fichiers compilés
+*.o
+*.out
+*.exe
+
+# Fichiers de build
+/build/
+/bin/
+
+# Fichiers de sauvegarde d'éditeurs
+*~
+*.swp
+
+# Exécutable par défaut
+a.out
+
